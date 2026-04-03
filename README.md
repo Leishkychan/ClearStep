@@ -1,4 +1,7 @@
-[README.md](https://github.com/user-attachments/files/26270277/README.md)
+
+
+> 🥉 3rd Place — Microsoft AI Innovation Challenge 2026 | Women in Cloud
+
 # ClearStep
 ### Microsoft AI Innovation Challenge Hackathon — March 2026
 
